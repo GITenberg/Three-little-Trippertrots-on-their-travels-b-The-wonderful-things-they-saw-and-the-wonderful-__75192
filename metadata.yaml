@@ -1,0 +1,50 @@
+_repo: Three-little-Trippertrots-on-their-travels-b-The-wonderful-things-they-saw-and-the-wonderful-__75192
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McClure, Griselda Marshall
+    birthdate: 1875
+    deathdate: 1970
+    gutenberg_agent_id: '57877'
+    url: http://www.gutenberg.org/2009/agents/57877
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - https://www.gutenberg.org/ebooks/author/57808
+    - https://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2025-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75192'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433092835457&view=1up&seq=11
+pgterms:marc905: 20221127160504garis
+pgterms:marc906: '1912'
+pgterms:marc907: us
+production_note: Aaron Adrignola, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bGraham & Matlack, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Imagination -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Three little Trippertrots on their travels : $b The wonderful things they
+  saw and the wonderful things they did'
+url: http://www.gutenberg.org/ebooks/75192
