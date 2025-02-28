@@ -7,6 +7,9 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '57877'
     url: http://www.gutenberg.org/2009/agents/57877
+covers:
+- cover_type: archival
+  image_path: 75192-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -22,6 +25,8 @@ creator:
     - https://www.gutenberg.org/ebooks/author/32638
     - https://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75192#Three-little-Trippertrots-on-their-travels-b-The-wonderful-things-they-saw-and-the-wonderful-_
 gutenberg_issued: '2025-01-24'
 gutenberg_type: Text
 identifiers:
